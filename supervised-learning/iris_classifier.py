@@ -7,7 +7,7 @@ from sklearn.externals.six import StringIO
 iris = load_iris()
 
 clf = tree.DecisionTreeClassifier()
-clf = clf.fit(iris.data, iris.target)
+clf.fit(iris.data, iris.target)
 
 # Text IO using buffer (use variable as default output instead of a file)
 dot_data = StringIO()
