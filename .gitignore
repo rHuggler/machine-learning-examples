@@ -1,2 +1,5 @@
 # vscode temporary file
 *.vscode
+
+# dataset files
+*.gz
