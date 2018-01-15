@@ -1,2 +1,2 @@
 # machine-learning-examples
-The title is very straightforward
+A bunch of machine learning examples for better understanding of their applications
